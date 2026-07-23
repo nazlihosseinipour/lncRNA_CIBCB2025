@@ -4,7 +4,7 @@ This fork preserves the research code originally developed by
 [F. Kenji Nakano](https://github.com/fkenjinakano) in
 [`fkenjinakano/lncRNA_CIBCB2025`](https://github.com/fkenjinakano/lncRNA_CIBCB2025).
 
-The `internship-adaptations` branch adds the changes used by Nazli
+The `agent/internship-adaptations` branch adds the changes used by Nazli
 Hosseinipour's internship experiments:
 
 - robustness fixes for IPCARF on expanded and non-finite feature matrices;
@@ -14,3 +14,6 @@ Hosseinipour's internship experiments:
 
 The fork relationship and Git history retain the original authorship and make
 the local changes reviewable against the upstream repository.
+
+The exact adaptation commit used by the parent internship project is
+`9bfab69` (`Add internship experiment adaptations`).
